@@ -10,7 +10,7 @@ Instead using a local copy of `Lato` font, removes references to it.
 ## Install
 
 ```bash
-npm install fomantic-ui-css-offline --save
+npm i @huseyinkozan/fomantic-ui-css-offline
 ```
 
 
