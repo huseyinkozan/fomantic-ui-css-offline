@@ -6,6 +6,8 @@ Inspired from [arthurlacoste/semantic-ui-offline](https://github.com/arthurlacos
 
 Instead using a local copy of `Lato` font, removes references to it.
 
+Note: After version 2.9.0, import statement removed and using offline font. Thus, no need to use this library after 2.9.0.
+
 
 ## Install
 
